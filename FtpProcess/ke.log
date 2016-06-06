@@ -1,0 +1,65 @@
+begin:Sat Jun  4 11:36:12 2016
+pwd  pwd  pwd  pwd  pwd  ls    
+linktime:16s
+end:Sat Jun  4 11:36:28 2016
+begin:Sat Jun  4 11:38:30 2016
+pwd  ls  gets 5.3.txt    
+linktime:44s
+end:Sat Jun  4 11:39:14 2016
+begin:Sat Jun  4 11:43:43 2016
+ls  pwd  gets file    
+linktime:17s
+end:Sat Jun  4 11:44:00 2016
+begin:Sat Jun  4 11:45:26 2016
+ls  begin:Sat Jun  4 11:46:19 2016
+pwd  cd ..  ls  ls  cd .  cd ..    
+linktime:17s
+end:Sat Jun  4 11:46:36 2016
+begin:Sat Jun  4 11:47:25 2016
+pwd  gets 5.3.txt  cd ..    
+operatetime:0.000000s
+linktime:9s
+end:Sat Jun  4 11:47:34 2016
+begin:Sat Jun  4 17:44:35 2016
+gets 123.mp4  ls    
+linktime:117s
+end:Sat Jun  4 17:46:32 2016
+begin:Sat Jun  4 17:49:17 2016
+gets 123.mp4    
+linktime:12s
+end:Sat Jun  4 17:49:29 2016
+begin:Sat Jun  4 17:50:23 2016
+gets 123.mp4    
+linktime:8s
+end:Sat Jun  4 17:50:31 2016
+begin:Sat Jun  4 19:12:33 2016
+gets 123.mp4  begin:Sat Jun  4 19:18:26 2016
+gets 123.mp4  begin:Sat Jun  4 19:22:07 2016
+gets 123.mp4  begin:Sat Jun  4 19:27:01 2016
+gets 5.3.txt    
+linktime:25s
+end:Sat Jun  4 19:27:26 2016
+begin:Sat Jun  4 19:28:10 2016
+gets 5.3.txt  gets 123.mp4    
+linktime:22s
+end:Sat Jun  4 19:28:32 2016
+begin:Sat Jun  4 19:37:18 2016
+gets 123.mp4    
+linktime:7s
+end:Sat Jun  4 19:37:25 2016
+begin:Sat Jun  4 19:51:44 2016
+gets 123.mp4    
+linktime:10s
+end:Sat Jun  4 19:51:54 2016
+begin:Sat Jun  4 19:52:37 2016
+gets 5.3.txt    
+linktime:8s
+end:Sat Jun  4 19:52:45 2016
+begin:Sat Jun  4 19:55:05 2016
+  
+linktime:71s
+end:Sat Jun  4 19:56:16 2016
+begin:Sat Jun  4 19:56:33 2016
+gets 123.mp4    
+linktime:39s
+end:Sat Jun  4 19:57:12 2016
